@@ -7,6 +7,29 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Installation 
+
+Projet Sigma fait par EL HADJ BELKACEM BILLAL
+
+Documentation pour pouvoir installer le projet : https
+
+- Cloner le projet
+- Aller a la racine du projet, puis taper : composer install
+- Taper : php artisan migrate
+- Taper : php artisan db:seed
+
+Pour lancer le projet, tapez : php artisan serve
+
+Le projet possède 3 scénario, un pour un visiteur, un formateur, et un administrateur 
+
+Il permet de créer des catégories, des formations et des chapitres liées aux formations
+
+Lorsque l'on s'inscrit, un administrateur doit valider le compte afin de pouvoir s'y connecter.
+
+Voici le MCD du projet : 
+
+<a href="mcd/MCD.png>
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
