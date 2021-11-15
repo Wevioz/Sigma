@@ -28,7 +28,7 @@ Lorsque l'on s'inscrit, un administrateur doit valider le compte afin de pouvoir
 
 Voici le MCD du projet : 
 
-<img src="mcd/MCD.png>
+<img src="mcd/MCD.PNG>
 
 ## About Laravel
 
